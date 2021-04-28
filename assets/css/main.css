@@ -4126,3 +4126,9 @@ body.is-mobile.landing #footer {
 .anchor {
   text-decoration: none;
 }
+
+.about-links {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-evenly;
+}
